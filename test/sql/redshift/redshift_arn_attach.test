@@ -29,7 +29,7 @@ CREATE SECRET (
 );
 
 statement ok
-ATTACH 'arn:aws:redshift:eu-central-1:840140254803:namespace:e542f89f-b604-4110-a337-f7ba8c7ce156' AS redshift_db;
+attach 'arn:aws:redshift:eu-central-1:847122343688:namespace:e9e72418-56e0-4672-abce-db9007f4ce15' as redshift_db;
 
 statement ok
 select * from (show all tables) where database = 'redshift_db';
