@@ -8,3 +8,5 @@ test/python/__pycache__/
 .Rhistory
 test/sql/redshift/redshift.env
 test/sql/redshift/serverless/redshift-serverless.env
+test/sql/s3/s3.env
+test/scripts/__pycache__/
