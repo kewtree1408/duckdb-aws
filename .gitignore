@@ -9,4 +9,5 @@ test/python/__pycache__/
 test/sql/redshift/redshift.env
 test/sql/redshift/serverless/redshift-serverless.env
 test/sql/s3/s3.env
+test/sql/s3tables/s3tables.env
 test/scripts/__pycache__/

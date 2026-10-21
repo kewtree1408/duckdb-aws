@@ -32,6 +32,7 @@ VCPKG_TOOLCHAIN_PATH=~/vcpkg/scripts/buildsystems/vcpkg.cmake GEN=ninja make
 
 - [Redshift test setup](test/sql/redshift/README.md)
 - [Private S3 bucket tests and railway example](test/sql/s3/README.md)
+- [S3 Tables test setup](test/sql/s3tables/README.md)
 
 ## Documentation
 
